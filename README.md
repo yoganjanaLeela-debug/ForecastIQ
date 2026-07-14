@@ -341,9 +341,9 @@ Campaign Insights
 Budget Allocation Recommendations
 Output File:
 output/predictions.csv
-👥 Team
 
-Team Name: <The Parallel Frontiers>
+## 👥 Team
+Team Name: The Parallel Frontiers
 
 Yoganjana.L
 Mahamithra.G
