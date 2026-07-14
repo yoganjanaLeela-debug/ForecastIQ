@@ -342,7 +342,7 @@ Budget Allocation Recommendations
 Output File:
 output/predictions.csv
 
-## 👥 Team
+👥 Team
 Team Name: The Parallel Frontiers
 
 Yoganjana.L
